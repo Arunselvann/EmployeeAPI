@@ -1,1 +1,1 @@
-.vscode
+FROM jfloff/alpine-python:latest
